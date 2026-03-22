@@ -103,5 +103,5 @@ To analyze how advertising spending (TV, Radio, Newspaper) affects sales and bui
 
 ## 👨‍💻 Author
 
-**Bikram Chowdhury**
+**Bickram Chowdhury**
 Aspiring Data Scientist | Python Enthusiast
